@@ -1,0 +1,28 @@
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.spl
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.fdb_latexmk
+*.fls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local scratch outputs
+results/smoke.csv

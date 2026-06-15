@@ -1,0 +1,14 @@
+{
+  "alloy": "WE43",
+  "fold": 2,
+  "setting": "close_unfilt",
+  "model": "ChemProp",
+  "r2": 0.5922521497648592,
+  "mae": 50.21490325927734,
+  "pearson_r": 0.7872253805555796,
+  "pearson_p": 0.0004951793289548604,
+  "n_train": 899,
+  "n_test": 15,
+  "n_features": 43,
+  "elapsed_s": 108.1
+}

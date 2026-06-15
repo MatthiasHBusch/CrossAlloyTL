@@ -1,0 +1,14 @@
+{
+  "alloy": "MgCa",
+  "fold": 3,
+  "setting": "far_filt",
+  "model": "GBR",
+  "r2": -3.1981105298783694,
+  "mae": 31.816528817911408,
+  "pearson_r": -0.21918127104174462,
+  "pearson_p": 0.4515294338324825,
+  "n_train": 5054,
+  "n_test": 14,
+  "n_features": 2096,
+  "elapsed_s": 1512.3
+}

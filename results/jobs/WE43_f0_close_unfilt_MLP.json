@@ -1,0 +1,14 @@
+{
+  "alloy": "WE43",
+  "fold": 0,
+  "setting": "close_unfilt",
+  "model": "MLP",
+  "r2": -0.21857565696928183,
+  "mae": 59.332313712437944,
+  "pearson_r": 0.7037808832201513,
+  "pearson_p": 0.003410564890322332,
+  "n_train": 899,
+  "n_test": 15,
+  "n_features": 2091,
+  "elapsed_s": 274.9
+}

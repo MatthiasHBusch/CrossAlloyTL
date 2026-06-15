@@ -1,0 +1,41 @@
+alloy,base_material,n_records,n_unique_molecules,is_target,is_close_pool,is_far_pool
+powder,Al,542,454,False,False,True
+pure,Al,464,74,False,False,True
+unknown_probably_pure,Al,459,70,False,False,True
+AA2024-T3,Al,324,81,False,False,True
+AA7075-T6,Al,292,80,False,False,True
+AA1100,Al,144,6,False,False,True
+AA1060,Al,122,14,False,False,True
+AA6061,Al,86,4,False,False,True
+CPAl,Al,44,4,False,False,True
+AA3003,Al,35,3,False,False,True
+AA2198,Al,21,4,False,False,True
+AA2024,Al,16,4,False,False,True
+AA5052,Al,16,4,False,False,True
+AA5754,Al,8,1,False,False,True
+AA7075,Al,8,6,False,False,True
+AA6063,Al,1,1,False,False,True
+OFHC,Cu,4,2,False,False,True
+Cu10Zn,Cu,2,2,False,False,True
+Cu40Zn,Cu,2,2,False,False,True
+Carbon Steel,Fe,1285,411,False,False,True
+Steel,Fe,33,13,False,False,True
+carbon steel,Fe,20,2,False,False,True
+mild steel,Fe,13,3,False,False,True
+AS1204-250,Fe,7,7,False,False,True
+steel,Fe,6,6,False,False,True
+ALSI1020,Fe,2,1,False,False,True
+CPMg220ppmFe,Mg,162,140,False,True,False
+AZ31,Mg,132,104,True,False,False
+ZE41,Mg,123,105,False,True,False
+AM50,Mg,122,104,False,True,False
+AZ91,Mg,121,100,True,False,False
+WE43,Mg,120,104,True,False,False
+E21,Mg,117,102,False,True,False
+HPMg50ppmFe,Mg,97,88,False,True,False
+HPMg51ppmFe,Mg,87,80,False,True,False
+CPMg342ppmFe,Mg,70,62,False,True,False
+MgCa,Mg,56,49,False,True,False
+MgAlZn,Mg,2,2,False,True,False
+AZ91D,Mg,1,1,False,True,False
+CPMgCa0.45Mn0.01,Mg,1,1,False,True,False

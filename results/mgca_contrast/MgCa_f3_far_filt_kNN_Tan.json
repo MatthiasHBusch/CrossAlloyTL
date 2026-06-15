@@ -1,0 +1,14 @@
+{
+  "alloy": "MgCa",
+  "fold": 3,
+  "setting": "far_filt",
+  "model": "kNN_Tan",
+  "r2": -46.49062827067911,
+  "mae": 135.6636163719796,
+  "pearson_r": -0.3031340880419305,
+  "pearson_p": 0.29210048314344295,
+  "n_train": 5054,
+  "n_test": 14,
+  "n_features": 2096,
+  "elapsed_s": 0.1
+}

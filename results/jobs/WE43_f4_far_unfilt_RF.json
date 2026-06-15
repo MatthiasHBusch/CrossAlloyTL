@@ -1,0 +1,14 @@
+{
+  "alloy": "WE43",
+  "fold": 4,
+  "setting": "far_unfilt",
+  "model": "RF",
+  "r2": 0.4567169229436665,
+  "mae": 46.696518952380956,
+  "pearson_r": 0.7563629334986002,
+  "pearson_p": 0.0011016101025210416,
+  "n_train": 4854,
+  "n_test": 15,
+  "n_features": 2096,
+  "elapsed_s": 599.3
+}

@@ -1,0 +1,14 @@
+{
+  "alloy": "MgCa",
+  "fold": 3,
+  "setting": "far_filt",
+  "model": "ChemProp",
+  "r2": -0.5466801960187695,
+  "mae": 28.96668197427477,
+  "pearson_r": -0.3294827021411651,
+  "pearson_p": 0.2499963151637914,
+  "n_train": 5054,
+  "n_test": 14,
+  "n_features": 48,
+  "elapsed_s": 1468.0
+}

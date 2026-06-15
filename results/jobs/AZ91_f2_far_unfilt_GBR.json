@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ91",
+  "fold": 2,
+  "setting": "far_unfilt",
+  "model": "GBR",
+  "r2": 0.8522548737861653,
+  "mae": 68.30924871627646,
+  "pearson_r": 0.9627281649105015,
+  "pearson_p": 9.298806730240528e-09,
+  "n_train": 4854,
+  "n_test": 15,
+  "n_features": 2096,
+  "elapsed_s": 2175.2
+}

@@ -1,0 +1,41 @@
+Alloy,Base material,Records,Unique molecules,Target alloy?
+powder,Al,542,454,False
+pure,Al,464,74,False
+unknown_probably_pure,Al,459,70,False
+AA2024-T3,Al,324,81,False
+AA7075-T6,Al,292,80,False
+AA1100,Al,144,6,False
+AA1060,Al,122,14,False
+AA6061,Al,86,4,False
+CPAl,Al,44,4,False
+AA3003,Al,35,3,False
+AA2198,Al,21,4,False
+AA2024,Al,16,4,False
+AA5052,Al,16,4,False
+AA5754,Al,8,1,False
+AA7075,Al,8,6,False
+AA6063,Al,1,1,False
+OFHC,Cu,4,2,False
+Cu10Zn,Cu,2,2,False
+Cu40Zn,Cu,2,2,False
+Carbon Steel,Fe,1285,411,False
+Steel,Fe,33,13,False
+carbon steel,Fe,20,2,False
+mild steel,Fe,13,3,False
+AS1204-250,Fe,7,7,False
+steel,Fe,6,6,False
+ALSI1020,Fe,2,1,False
+CPMg220ppmFe,Mg,162,140,False
+AZ31,Mg,132,104,True
+ZE41,Mg,123,105,False
+AM50,Mg,122,104,False
+AZ91,Mg,121,100,True
+WE43,Mg,120,104,True
+E21,Mg,117,102,False
+HPMg50ppmFe,Mg,97,88,False
+HPMg51ppmFe,Mg,87,80,False
+CPMg342ppmFe,Mg,70,62,False
+MgCa,Mg,56,49,False
+MgAlZn,Mg,2,2,False
+AZ91D,Mg,1,1,False
+CPMgCa0.45Mn0.01,Mg,1,1,False

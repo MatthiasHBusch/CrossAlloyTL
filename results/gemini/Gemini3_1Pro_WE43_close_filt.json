@@ -1,0 +1,95 @@
+{
+    "names_only": {
+        "with_preanalysis": {
+            "google/gemini-3.1-pro-preview": {
+                "60": {
+                    "839": {
+                        "0": {
+                            "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one (Ascorbic acid)": [-15.0,-255.0,13.0],
+                            "(2R;3R;4R;5R)-2;3;5;6-tetrahydroxy-4-[(2S;3R;4S;5R;6R)-3;4;5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexanoic acid (Lactobionic acid)": [12.0,13.0,18.7],
+                            "4-carboxyphenolate(4-Hydroxybenzoate)": [-25.0,12.0,-150.0],
+                            "4-tert-butylbenzoic acid": [25.0,35.0,41.3],
+                            "5;5-dimethylimidazolidine-2;4-dione (5;5-dimethylhydantoin)": [-85.0,-45.0,-45.0],
+                            "(R)-2;3-Dihydroxypropanoic acid calcium saltdihydrate (Glyceric acid; Ca salt)": [32.0,45.0,45.0],
+                            "Sodium octadecenoate (Sodium Stearate)": [65.0,75.0,85.0],
+                            "3;5-dimethyl-1H-pyrazole (3;5-Dimethylpyrazole)": [25.0,25.0,-25.0],
+                            "(3R;5R)-1;3;4;5-tetrahydroxycyclohexane-1-carboxylic acid(Quinic acid; quinate; Chinic acid)": [-50.1,9.4,35.0],
+                            "(Z)-but-2-enedioic acid(Maleic acid)": [31.0,36.0,31.0],
+                            "3;4-dihydroxybenzoic acid (protocatechuic acid)": [42.0,-285.0,-163.6],
+                            "propane-1;2;3-triol (Glycerol; Glycerin)": [-15.0,-18.0,16.0],
+                            "pyridine-2-carboxylic acid(Picolinic acid)": [72.0,72.0,72.5],
+                            "5-nitro-1;3-diazinane-2;4;6-trione (5-Nitrobarbituric Acid; Dilituric acid; 5-Nitro-6-hydroxyuracil)": [-108.0,-115.0,-218.0],
+                            "2-hydroxypropanoic acid (Lactic acid; Lactate)": [50.0,25.0,39.6],
+                            "quinoline-2-carboxylic acid (Quinaldic acid)": [55.0,43.0,55.0],
+                            "1;3;5;7-tetrazatricyclo[3.3.1.13;7]decane(Hexamine)": [-260.0,-36.0,-135.0],
+                            "2-hydroxybutanedioic acid (malic acid)": [-2.0,-14.0,-15.0],
+                            "2-[bis(carboxymethyl)amino]acetic acid (Nitrilotriacetic acid; NTA;  triglycollamic acid; aminotriacetic acid)": [-263.0,-178.7,-280.0],
+                            "sodium;(2S;5R;6R)-3;3-dimethyl-7-oxo-6-[(2-phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate) (Penicilin G; Benzylpenicillin )": [35.0,-65.0,-101.0],
+                            "(2S)-2-[[4-[(2-amino-4-oxo-3H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid (Folic acid (Vitamin B9))": [-197.0,-120.0,-155.0],
+                            "2-hydroxy-3-methylbenzoic acid(3-Methylsalicylic acid;  Hydroxytoluic acid;  o-cresotic acid)": [73.0,74.0,81.0],
+                            "(2S)-2-aminopentanedioic acid (Glutamic acid)": [-135.0,-125.0,-134.0],
+                            "2-hydroxyacetic acid(Glycolic acid)": [25.0,32.0,18.0],
+                            "2-hydroxy-4-methylbenzoic acid(4-Methylsalicylic acid; m-Cresotic acid; 2;4-Cresotic acid)": [87.0,72.0,76.0],
+                            "1H-1;2;4-triazol-5-amine(3-amino-1;2;4-triazole)": [-29.0,-168.0,-185.0],
+                            "2-hydroxy-5-sulfobenzoic acid(5-Sulfosalicylic acid)": [49.0,10.0,43.0],
+                            "pyridine-3-carboxylic acid(Nicotinic acid); Niacin;  3-Picolinic acid; Vitamin B3)": [31.0,32.0,33.0],
+                            "1;2-Diaminocyclohexanetetraacetic acid (Chel-CD; 1;2-Cyclohexanedinitrilotetraaceticacid; DCTA)": [-296.0,-315.0,-296.0],
+                            "hexanedioic acid (Adipic acid)": [38.0,-45.0,35.0],
+                            "Streptomycin": [-9.0,62.0,-126.0],
+                            "2-hydroxy-2-phenylacetic acid (DL-almond acid; DL mandelic acid)": [-36.5,14.6,38.0],
+                            "4-amino-2-hydroxybenzoic acid (4-Aminosalicylic acid)": [33.0,31.0,68.0],
+                            "Oxalic acid": [26.0,82.0,45.0],
+                            "pyridine-2;3-dicarboxylic acid (2;3-Pyridinedicarboxylic acid; Quinolinic acid)": [83.0,60.2,73.4],
+                            "2-hydroxy-3;5-dinitrobenzoic acid(3;5-dinitrosalicylic acid; 3;5-Dinitro-2-hydroxybenzoic acid)": [-125.0,20.0,-87.5],
+                            "2-hydroxypropane-1;2;3-tricarboxylic acid(Citric acid)": [-148.0,-84.0,-45.0],
+                            "(2R)-2-amino-3-sulfanylpropanoic acid (L-cysteine)": [-45.0,-124.0,-215.8],
+                            "2-[(2-aminoacetyl)amino]aceticacidhydrochloride(Glycylglycine hydrochloride)": [-250.0,-185.0,-265.0],
+                            "Formic acid (Methanoic acid; Formylic acid; Aminic acid)": [15.0,12.0,-150.0],
+                            "(E)-but-2-enedioic acid (Fumaric acid)": [-197.0,35.0,28.0],
+                            "2-[bis(2-hydroxyethyl)amino]acetic acid(Bicine; Diethylolglycine)": [-282.0,-277.0,-250.0],
+                            "Piperazine (1;4-Diazacyclohexane; Diethylenediamine)": [-255.0,-35.0,-228.0],
+                            "(2R)-2;4-dihydroxy-N-(3-hydroxypropyl)-3;3-dimethylbutanamide(Panthenol; Provitamin B)": [-15.0,20.0,21.0],
+                            "2-(carboxymethoxy)acetic acid(Diglycolic acid)": [36.0,-120.0,33.3],
+                            "(2S)-2-amino-3-phenylpropanoic acid(Phenylalanine)": [-150.0,-170.0,-113.0],
+                            "5-Amino-2-hydroxybenzoic acid (5-Aminosalicylic acid; Mesalamine)": [50.0,50.0,51.0],
+                            "1;3;4-thiadiazolidine-2;5-dithione(DMTD; 2;5-dimercapto-1;3;4-thiadiazolate)": [25.0,25.0,-41.5],
+                            "2-aminoacetic acid(Glycine)": [-150.0,-138.0,-45.0],
+                            "(Z)-2-methylbut-2-enedioic acid(Citraconic acid)": [60.0,8.0,15.0],
+                            "2;3-dihydroxybutanedioic acid(Tartaric acid)": [38.0,13.4,32.0],
+                            "3-methyl-2-nitrobenzoic acid(2-Nitro-m-toluic acid)": [12.0,18.0,25.0],
+                            "Thiourea": [-13.4,-10.0,15.0],
+                            "N;2-dihydroxybenzamide (Salicylhydroxamic acid; Salicylohydroxamicacid)": [30.0,-18.0,29.4],
+                            "disodium;4;5-dihydroxybenzene-1;3-disulfonate (Tiron; Tiferron; Pyrocatechol-3;5-disulfonateNa)": [-221.0,-344.0,-207.0],
+                            "2-amino-2-(hydroxymethyl)propane-1;3-diol(TRIS; Tris(hydroxymethyl)-aminomethane)": [-113.0,-190.7,-145.0],
+                            "Phthalic acid(o-phthalic acid)": [55.6,72.0,48.0],
+                            "Benzoic acid": [28.0,41.0,23.0],
+                            "4-dodecylbenzenesulfonic acid (dodecylbenzenesulphonic acid)": [-65.0,-66.0,-85.0],
+                            "Propionic acid": [36.0,15.0,36.0],
+                            "Aspartic Acid": [-153.0,-211.2,-163.0],
+                            "2-[(E)-hydroxyiminomethyl]phenol(Salicylaldoxime)": [89.3,92.0,91.1],
+                            "3-hydroxy-2-methylpyran-4-one(Maltol; Larixinic acid;3-Hydroxy-2-methyl-4-pyrone)": [-25.0,-35.0,-85.0],
+                            "Urea (carbamide)": [40.0,20.0,-15.0],
+                            "2-Hydroxybenzoic Acid(Salicylic acid)": [52.0,49.0,52.0],
+                            "2-Hydroxy-5-methylbenzoic acid(p-Cresotic acid; 5-Methylsalicylic acid)": [44.0,44.0,44.0],
+                            "2-aminohexanoic acid(Norleucine)": [-138.0,-138.7,-138.0],
+                            "4;4;4-trifluoro-1-thiophen-2-ylbutane-1;3-dione (2-Thenoyltrifluoroacetone)": [-65.0,-20.0,-22.0],
+                            "butanedioic acid": [21.0,80.0,53.2],
+                            "3-methylbenzene-1;2-diol (3-Methylcatechol ; 2;3-dihydroxytoluene)": [-220.0,-320.0,-125.0],
+                            "2-(1H-imidazol-5-yl)ethanaminedihydrochloride(Histamine dihydrochloride)": [-250.0,-250.0,-185.0],
+                            "(3R;4S;5S;6R)-6-(hydroxymethyl)oxane-2;3;4;5-tetrol (D-glucose)": [18.4,18.4,20.8],
+                            "pyridine-2;5-dicarboxylic acid (2;5- Pyridinedicarboxylic (Isocinchomeronic;Pyridine-3;4-dicarboxylic) acid)": [46.0,75.0,51.0],
+                            "2-hydroxybenzaldehyde (Salicylaldehyde)": [28.0,28.0,25.0],
+                            "Chitosan": [-37.0,-105.0,-52.4]
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+}

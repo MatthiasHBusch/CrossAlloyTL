@@ -1,0 +1,69 @@
+{
+    "names_only": {
+        "with_preanalysis": {
+            "google/gemini-3.1-pro-preview": {
+                "42": {
+                    "0": {
+                        "0": {
+                            "(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid (Tryptophan)": [-21.5,-21.0,-21.0],
+                            "(2S)-2-amino-4-methylpentanoic acid(Leucine)": [-17.0,-17.5,-17.5],
+                            "(2S)-pyrrolidine-2-carboxylic acid (Proline)": [-11.0,-11.0,-10.0],
+                            "(2S)-2;5-diaminopentanoic acid;hydrochloride(Ornithine monohydrochloride)": [-11.0,-16.0,-11.0],
+                            "propan-2-one (Acetone)": [-6.0,-5.0,-4.0],
+                            "(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one (Ascorbic acid)": [33.0,51.0,51.0,33.0,51.0,51.0,33.0,51.0,51.0],
+                            "(3R;4R;5S;6R)-3-amino-6-(hydroxymethyl)oxane-2,4,5-triol (Glucosamine)": [-11.0,-13.0,-13.0],
+                            "4-[3-(4-hydroxyphenyl)-1;1-dioxo-2;1lambda6-benzoxathiol-3-yl]phenol(Phenol Red)": [15.0,-16.0,-19.0],
+                            "3-hydroxybutanoic acid(beta-hydroxybutyric acid)": [-2.0,-5.0,-5.0],
+                            "(2S)-2;5-diamino-5-oxopentanoic acid(Glutamine)": [-7.0,-8.0,-7.0],
+                            "(3R;4S;5R;6R)-6-(hydroxymethyl)oxane-2;3;4;5-tetrol (D-galactose)": [-12.0,-14.0,-10.0],
+                            "(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid (Tyrosine)": [-8.0,-8.0,-10.0],
+                            "2-hydroxyethyl(trimethyl)azaniumchloride(Choline chloride Vitamin B4) ": [-3.0,-6.5,-7.0],
+                            "pyridine-3-carboxamide (Nicotinamide; Niacinamide; Nicotinic acidamide; Pyridine-3-carboxylic acid amide; Vitamin B)": [-5.0,-7.0,-5.0],
+                            "propane-1;2;3-triol (Glycerol; Glycerin)": [-10.0,-10.2,-10.0],
+                            "Glutamic acid": [-16.0,-16.0,-15.0],
+                            "2-hydroxypropanoic acid (Lactic acid; Lactate)": [-9.0,-10.0,-9.0],
+                            "(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid(Arginine)": [-15.0,-14.0,-14.5],
+                            "2-hydroxybutanedioic acid (malic acid)": [-11.0,-11.0,-11.0,-11.0,-11.0,-11.0],
+                            "2-aminopropanoic acid(Alanine)": [-4.0,-5.0,-11.0],
+                            "cyclohexane-1;2;3;4;5;6-hexol (Inositol; Vitamin B8)": [-10.0,-10.0,-9.0],
+                            "2-aminobutanoic acid(homoalanine α-aminobutyric acid)": [-11.0,-13.5,-8.0],
+                            "(2S)-2-[[4-[(2-amino-4-oxo-3H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid (Folic acid (Vitamin B9))": [12.0,-8.0,2.0],
+                            "2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1;3-thiazol-3-ium-5-yl]ethanol;chloride;hydrochloride (Thiamine-HCl; Vitamin B1)": [-7.0,-4.0,-5.0],
+                            "(3S,4R,5R)-1,3,4,5,6-pentahydroxyhexan-2-one (Fructose)": [-8.0,-8.0,-8.0],
+                            "(2S)-2-amino-3-methylbutanoic acid(Valine)": [-4.0,-4.0,-4.0],
+                            "(2S;3S)-2-amino-3-methylpentanoic acid (Isoleucine)": [-14.0,-14.0,-13.0],
+                            "2;6-diaminohexanoic acid(Lysine)": [-10.0,-8.0,-10.0],
+                            "(2S)-2-amino-3-hydroxypropanoic acid(Serine)": [-6.4,-7.0,-8.0],
+                            "2-oxopropanoic acid(Pyruvic acid)": [-4.0,-4.0,-2.0],
+                            "2-hydroxypropane-1;2;3-tricarboxylic acid(Citric acid)": [-11.0,-10.0,-14.0],
+                            "(2R)-2-amino-3-sulfanylpropanoic acid (L-cysteine)": [-46.0,-104.0,-104.0,-46.0,-104.0,-104.0,-46.0,-104.0,-104.0],
+                            "4;5-bis(hydroxymethyl)-2-methylpyridin-3-ol;hydrochloride(Pyridoxine-HCl; Vitamin B6)": [-3.0,-3.0,-3.0],
+                            "7;8-dimethyl-10-[(2S;3S;4R)-2;3;4;5-tetrahydroxypentyl]benzo[g]pteridine-2;4-dione(Riboflavin; Vitamin B2; Vitamin G)": [22.0,12.0,-4.0],
+                            "7;9-dihydro-3H-purine-2;6;8-trione (Uric acid)": [31.5,-1.0,-1.0,31.5,-1.0,-1.0,31.5,-1.0,-1.0],
+                            "(2S)-2-amino-3-phenylpropanoic acid(Phenylalanine)": [-6.0,-9.0,-6.0],
+                            "2-aminoacetic acid(Glycine)": [-5.0,-2.5,-3.0],
+                            "(2S)-2-amino-3-(1H-imidazol-5-yl)propanoicacid(Histidine)": [-20.0,-21.0,-20.0],
+                            "(2S)-2;4-diamino-4-oxobutanoic acid(Asparagine)": [-20.0,-10.0,-9.0],
+                            "Aspartic Acid": [-9.5,-10.0,-10.0],
+                            "(2S;3R)-2-amino-3-hydroxybutanoic acid(Threonine; 2-Amino-3-hydroxybutyric acid)72-19-5": [-6.0,-4.0,-7.0],
+                            "(2S;3S;4S;5R)-3;4;5;6-tetrahydroxyoxane-2-carboxylic acid (Glucuronic acid; Hexuronic acid)": [-12.0,-13.0,-14.0],
+                            "Urea (carbamide)": [-6.0,-6.0,-5.0],
+                            "2-aminoethanesulfonic acid(Taurine)": [-12.0,-8.0,-8.0],
+                            "calcium;3-[[(2R)-2;4-dihydroxy-3;3-dimethylbutanoyl]amino]propanoate(Calcium pantothenate; Vitamin B5)": [-5.0,-6.0,-13.0],
+                            "butanedioic acid": [-11.0,-11.0,-8.0],
+                            "2-amino-3-methyl-4H-imidazol-5-one(Creatinine)": [-6.0,-8.0,-10.0],
+                            "2-[2-[bis(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetic acid(EDTA; ethylenediaminetetraacetic acid)": [-25.0,-40.0,-35.0],
+                            "(2R)-2-amino-3-[[(2R)-2-amino-2-carboxyethyl]disulfanyl]propanoic acid (L-Cystine)": [-96.0,-88.4,-80.0]
+                        }
+
+                    }
+
+                }
+
+            }
+
+        }
+
+    }
+
+}

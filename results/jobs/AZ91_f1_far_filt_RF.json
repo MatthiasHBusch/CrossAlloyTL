@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ91",
+  "fold": 1,
+  "setting": "far_filt",
+  "model": "RF",
+  "r2": -0.4308645631424144,
+  "mae": 134.70405692063494,
+  "pearson_r": 0.052277933973193226,
+  "pearson_p": 0.85320438663769,
+  "n_train": 4696,
+  "n_test": 15,
+  "n_features": 2096,
+  "elapsed_s": 1540.6
+}

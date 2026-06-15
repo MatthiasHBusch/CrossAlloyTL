@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ31",
+  "fold": 2,
+  "setting": "exact",
+  "model": "MLP",
+  "r2": 0.15314737925049304,
+  "mae": 146.96823450724284,
+  "pearson_r": 0.6555908127446569,
+  "pearson_p": 0.007967657621843599,
+  "n_train": 60,
+  "n_test": 15,
+  "n_features": 2051,
+  "elapsed_s": 16.3
+}

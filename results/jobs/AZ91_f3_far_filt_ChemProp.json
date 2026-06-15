@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ91",
+  "fold": 3,
+  "setting": "far_filt",
+  "model": "ChemProp",
+  "r2": 0.13923056098713738,
+  "mae": 131.57585382461548,
+  "pearson_r": 0.4693924333975958,
+  "pearson_p": 0.07752239280600802,
+  "n_train": 4713,
+  "n_test": 15,
+  "n_features": 48,
+  "elapsed_s": 656.6
+}

@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the accompanying paper."
+title: "CrossAlloyTL: cross-alloy transfer learning for magnesium corrosion inhibitors"
+authors:
+  - family-names: Busch
+    given-names: Matthias
+    affiliation: "Hamburg University of Technology (TUHH)"
+  - family-names: Tacke
+    given-names: Marius
+    affiliation: "Helmholtz-Zentrum Hereon"
+  - family-names: Lamaka
+    given-names: Sviatlana V.
+    affiliation: "Helmholtz-Zentrum Hereon"
+  - family-names: Zheludkevich
+    given-names: Mikhail L.
+    affiliation: "Helmholtz-Zentrum Hereon"
+  - family-names: Cyron
+    given-names: Christian J.
+    affiliation: "Hamburg University of Technology (TUHH) / Helmholtz-Zentrum Hereon"
+  - family-names: Aydin
+    given-names: Roland C.
+    affiliation: "German Center for Artificial Intelligence (DFKI) / Saarland University"
+  - family-names: Feiler
+    given-names: Christian
+    affiliation: "Helmholtz-Zentrum Hereon"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Busch
+      given-names: Matthias
+    - family-names: Tacke
+      given-names: Marius
+    - family-names: Lamaka
+      given-names: Sviatlana V.
+    - family-names: Zheludkevich
+      given-names: Mikhail L.
+    - family-names: Cyron
+      given-names: Christian J.
+    - family-names: Aydin
+      given-names: Roland C.
+    - family-names: Feiler
+      given-names: Christian
+  title: "Different Alloy, Different Story? Impact of Transfer Learning on
+          Predictive Models for In Silico Screening of Mg Dissolution Modulators"
+  year: 2026
+  journal: "Corrosion Science (submitted)"

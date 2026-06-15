@@ -1,0 +1,31 @@
+model,setting,r,p,n
+RF,Exact,0.2969,5.847e-06,225
+RF,Close filt.,0.3051,3.11e-06,225
+RF,Close unfilt.,0.8416,1.353e-61,225
+RF,Far filt.,0.3132,1.641e-06,225
+RF,Far unfilt.,0.8271,1.03e-57,225
+GBR,Exact,0.3336,3.005e-07,225
+GBR,Close filt.,0.2853,1.387e-05,225
+GBR,Close unfilt.,0.8885,2.254e-77,225
+GBR,Far filt.,0.3075,2.585e-06,225
+GBR,Far unfilt.,0.8566,5.157e-66,225
+MLP,Exact,0.2608,7.528e-05,225
+MLP,Close filt.,0.1883,0.004601,225
+MLP,Close unfilt.,0.8539,3.475e-65,225
+MLP,Far filt.,0.2567,9.819e-05,225
+MLP,Far unfilt.,0.8394,5.846e-61,225
+kNN-Tanimoto,Exact,0.2581,8.99e-05,225
+kNN-Tanimoto,Close filt.,0.1945,0.003403,225
+kNN-Tanimoto,Close unfilt.,0.8587,1.132e-66,225
+kNN-Tanimoto,Far filt.,0.2442,0.0002162,225
+kNN-Tanimoto,Far unfilt.,0.8225,1.475e-56,225
+ChemProp,Exact,-0.008578,0.8982,225
+ChemProp,Close filt.,0.2059,0.001905,225
+ChemProp,Close unfilt.,0.7223,1.401e-37,225
+ChemProp,Far filt.,0.2993,4.873e-06,225
+ChemProp,Far unfilt.,0.6893,4.713e-33,225
+Gemini 3.1 Pro,Exact,0.5902,2.035e-22,224
+Gemini 3.1 Pro,Close filt.,0.6038,1.207e-23,224
+Gemini 3.1 Pro,Close unfilt.,0.7288,2.262e-38,224
+Gemini 3.1 Pro,Far filt.,0.6033,1.35e-23,224
+Gemini 3.1 Pro,Far unfilt.,0.7974,1.344e-50,224

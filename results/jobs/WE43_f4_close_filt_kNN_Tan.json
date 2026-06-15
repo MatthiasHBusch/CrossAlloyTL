@@ -1,0 +1,14 @@
+{
+  "alloy": "WE43",
+  "fold": 4,
+  "setting": "close_filt",
+  "model": "kNN_Tan",
+  "r2": -6.8497993802520165,
+  "mae": 155.42952834944617,
+  "pearson_r": -0.0165595751412665,
+  "pearson_p": 0.9532911709056874,
+  "n_train": 810,
+  "n_test": 15,
+  "n_features": 2091,
+  "elapsed_s": 0.0
+}

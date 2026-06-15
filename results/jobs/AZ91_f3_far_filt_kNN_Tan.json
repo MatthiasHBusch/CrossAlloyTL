@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ91",
+  "fold": 3,
+  "setting": "far_filt",
+  "model": "kNN_Tan",
+  "r2": 0.06861607255744862,
+  "mae": 126.68088882836196,
+  "pearson_r": 0.433508942864099,
+  "pearson_p": 0.10646120827675284,
+  "n_train": 4713,
+  "n_test": 15,
+  "n_features": 2096,
+  "elapsed_s": 0.1
+}

@@ -1,0 +1,26 @@
+Model,Setting,r_mean,r_se,p_combined,n_folds,n_p_lt_05
+RF,Exact,0.2665,0.0676,0.0064,15,1
+RF,Close filt.,0.2955,0.0692,0.0016,15,4
+RF,Close unfilt.,0.8080,0.0341,0.0000,15,14
+RF,Far filt.,0.2994,0.0691,0.0014,15,4
+RF,Far unfilt.,0.7899,0.0360,0.0000,15,14
+GBR,Exact,0.2796,0.0642,0.0047,15,3
+GBR,Close filt.,0.2958,0.0767,0.0003,15,4
+GBR,Close unfilt.,0.8776,0.0227,0.0000,15,15
+GBR,Far filt.,0.2566,0.0690,0.0176,15,3
+GBR,Far unfilt.,0.8544,0.0209,0.0000,15,15
+MLP,Exact,0.2902,0.0695,0.0031,15,5
+MLP,Close filt.,0.2168,0.0632,0.1175,15,1
+MLP,Close unfilt.,0.8434,0.0346,0.0000,15,14
+MLP,Far filt.,0.2296,0.0545,0.1290,15,1
+MLP,Far unfilt.,0.8352,0.0324,0.0000,15,15
+kNN-Tanimoto,Exact,0.2389,0.0663,0.0363,15,2
+kNN-Tanimoto,Close filt.,0.1850,0.0825,0.0083,15,3
+kNN-Tanimoto,Close unfilt.,0.8673,0.0242,0.0000,15,15
+kNN-Tanimoto,Far filt.,0.2286,0.0914,0.0000,15,3
+kNN-Tanimoto,Far unfilt.,0.8286,0.0293,0.0000,15,15
+ChemProp,Exact,0.1807,0.0823,0.0059,15,2
+ChemProp,Close filt.,0.2861,0.0687,0.0041,15,2
+ChemProp,Close unfilt.,0.7505,0.0287,0.0000,15,14
+ChemProp,Far filt.,0.3247,0.0753,0.0001,15,4
+ChemProp,Far unfilt.,0.7022,0.0400,0.0000,15,13

@@ -1,0 +1,14 @@
+{
+  "alloy": "AZ31",
+  "fold": 2,
+  "setting": "close_unfilt",
+  "model": "kNN_Tan",
+  "r2": 0.6710545275297994,
+  "mae": 60.257325737352744,
+  "pearson_r": 0.9731146536339311,
+  "pearson_p": 1.14075755180371e-09,
+  "n_train": 899,
+  "n_test": 15,
+  "n_features": 2091,
+  "elapsed_s": 0.0
+}

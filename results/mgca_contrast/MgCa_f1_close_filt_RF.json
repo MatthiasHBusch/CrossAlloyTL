@@ -1,0 +1,14 @@
+{
+  "alloy": "MgCa",
+  "fold": 1,
+  "setting": "close_filt",
+  "model": "RF",
+  "r2": -0.716652665457538,
+  "mae": 24.761105122448978,
+  "pearson_r": -0.35744815085623044,
+  "pearson_p": 0.20958092767348832,
+  "n_train": 1143,
+  "n_test": 14,
+  "n_features": 2091,
+  "elapsed_s": 82.7
+}
